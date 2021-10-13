@@ -1,2 +1,0 @@
-msg = "HELP"
-print(msg)
