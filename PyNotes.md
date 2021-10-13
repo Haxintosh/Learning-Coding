@@ -1,12 +1,15 @@
+***DEFINITIONS***  
+string = string of letters/plain text  
+numbers = numbers.  
+Boolean Value = true/false  
 
+stuff to say in `print()` should be in quotes ("") except for  variable or numbers  
 
-stuff to say in `print()` should be in quotes ("") except for  variable
+***Variable***  
 
-***Variable***
-
-Variable can be created using (variable name) **SPACE** = **SPACE** ("value")  
-  
-Those variable are **case sensitive**  
+Variable can be created using (variable name) **SPACE** = **SPACE** ("value")    
+   
+Those variable are **case sensitive**    
 
 *For example:*
 
@@ -33,3 +36,5 @@ But if there is no text before the variable **no need to put the "+"**
 `print(y + "noo")`
 
 you can override variable's value by making a new define value below the original one  
+
+
