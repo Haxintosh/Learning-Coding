@@ -1,11 +1,13 @@
 
 
-12 October 2021: Started to learn about GitHub, planning to start the learning with basic python, lua, JavaScript and then Java. Set a few goals along the way. 
-   Goals: 
-          -Python: A calculator,
-          -Lua: CC Mekanism Main Control Panel
-          -Javascript: A modpack combined with -Java
-          -as described above
+12 October 2021: Started to learn about GitHub, planning to start the learning with basic python, lua, JavaScript and then Java. Set a few goals along the way.   
+
+  
+   Goals:   
+          -Python: A calculator,  
+          -Lua: CC Mekanism Main Control Panel  
+          -Javascript: PonderJS!
+          -Java: Elementia (a minecraft mod with elements!)    
         
        
 13 October 2021: 
