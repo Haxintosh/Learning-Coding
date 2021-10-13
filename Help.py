@@ -1,0 +1,2 @@
+msg = "HELP"
+print(msg)
