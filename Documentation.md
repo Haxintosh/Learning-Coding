@@ -10,7 +10,7 @@
           -Java: Elementia (a minecraft mod with elements!)    
         
        
-13 October 2021: Started Python for begginers, taking notes in branch `Python` Stopped at `   `
+13 October 2021: Started Python for beginners, taking notes in branch `Python` Stopped at `   `
 
 
 14 October 2021:
