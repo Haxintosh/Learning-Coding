@@ -1,7 +1,9 @@
 ***DEFINITIONS***  
 string = string of letters/plain text  
-numbers = numbers.  
-Boolean Value = true/false  
+numbers = numbers (decimal has to be with ".")  
+Boolean Value = true/false data (First letter has to be Capital, example, `is_alpha = True`)  
+concatenation = putting 2 strings together  
+
 
 stuff to say in `print()` should be in quotes ("") except for  variable or numbers  
 
@@ -36,5 +38,22 @@ But if there is no text before the variable **no need to put the "+"**
 `print(y + "noo")`
 
 you can override variable's value by making a new define value below the original one  
+
+***Strings***  
+
+In order to put stuff in a string for example for print(), you need to put them in **QUOTATION**  
+
+`\n` = makes stuff after it go on a new line  
+
+`\(anything)` = makes 1 thing after it displayed literally  
+
+*For example*
+
+`print("Hax\nIndustries")`  
+Hax  
+Indsutries  
+
+`print("\"hello\""`  
+"hello"  
 
 
