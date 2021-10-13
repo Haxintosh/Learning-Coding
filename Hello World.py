@@ -1,2 +1,0 @@
-msg = "lifeeeeee"
-print(msg)
