@@ -1,0 +1,2 @@
+msg = "lifeeeeee"
+print(msg)
