@@ -15,7 +15,7 @@
 
 
 14 October 2021: Continued Python for Beginners, feeling kinda sick, probably  a cold ;(  
-          -Learned: 
+          -Learned: Basic number manipulation, basic math functions, **USER INPUTS :))))**  
 
 
 15 October 2021:
