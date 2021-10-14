@@ -5,9 +5,8 @@ Boolean Value = true/false data (First letter has to be Capital, example, `is_al
 Concatenation = putting 2 strings together  
 Function = block of code that will perform specific operation for us  
 Parameter = value given to a function  
+Mod = takes the first number and devide it by the second number and then spit out the remain number, sign is `%`, can be used like `print(10 % 3)`  
 
-
-stuff to say in `print()` should be in quotes ("") except for  variable or numbers  
 
 ***Variable***  
 
@@ -113,6 +112,30 @@ Another function is `.replace` it replaces thing before the `,` with stuff after
 
 `print("hellothere".replace("hello", "bye"))`  
 `byethere`  
+
+
+***Numberssss!!!***
+
+You can do basic arithmetics with numbers in python, but only BASICS, this include parenthesis , note that pyton prioritize multiplication or division  
+
+*for example*  
+
+`print(1 + 69 * 2)`  
+`139`  
+
+so we don't need to seperate them with spaces but it is good to do it for good practices ;)  
+
+so we want to print numbers along side strings, but python throws back our code with an error so we have to add `str()` function before the number then add the string to it with `+`  
+
+*for example*   
+
+`print(str(69) + " my life is glorious")`  
+`69 my life is glorious`  
+
+for common math functions, see 14Oct.py  
+
+
+
 
 
 
