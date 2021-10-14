@@ -14,7 +14,8 @@
           -Learned: variables, basic string manipulation, string functions and basic introduction to python  
 
 
-14 October 2021:
+14 October 2021: Continued Python for Beginners, feeling kinda sick, probably  a cold ;(  
+          -Learned: 
 
 
 15 October 2021:
