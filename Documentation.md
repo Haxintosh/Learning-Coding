@@ -10,7 +10,8 @@
           -Java: Elementia (a minecraft mod with elements!)    
         
        
-13 October 2021: Started Python for beginners, installed pycharm, taking notes in branch `Python` Stopped at `   `
+13 October 2021: Started Python for beginners, installed pycharm, taking notes in branch `Python` Stopped at `38:20`  
+          -Learned: variables, basic string manipulation, string functions and basic introduction to python  
 
 
 14 October 2021:
