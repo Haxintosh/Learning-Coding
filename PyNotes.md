@@ -134,6 +134,10 @@ so we want to print numbers along side strings, but python throws back our code 
 
 for common math functions, see 14Oct.py  
 
+***User Inputs***  
+To opem a prompt to ask, we use  `input()` we put what we want to ask in the `()`   
+
+to put the anwser in a variable, we use the normal variable way, `example = input("this is an exmaple? ")  
 
 
 
