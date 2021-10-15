@@ -5,16 +5,16 @@ nb2 = input("second number? ")
 operation = input ("what operation? Please enter +, _, *, / or quit")
 if operation == "-":
     print('Valid Operation')
-    print('anwser ' + str(float(nb1)-int(nb2)))
+    print('anwser ' + str(float(nb1)-float(nb2)))
 elif operation == '+':
     print('Valid Operation')
-    print('anwser ' + str(float(nb1)+int(nb2)))
+    print('anwser ' + str(float(nb1)+float(nb2)))
 elif operation == '*':
     print('Valid Operation')
-    print('anwser ' + str(float(nb1)*int(nb2)))
+    print('anwser ' + str(float(nb1)*float(nb2)))
 elif operation == '/':
     print('Valid Operation')
-    print('anwser ' + str(float(nb1)/int(nb2)))
+    print('anwser ' + str(float(nb1)/float(nb2)))
 elif operation == 'quit':
     print('Goodbye')
     quit()
