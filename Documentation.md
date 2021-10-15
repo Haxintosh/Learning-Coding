@@ -14,8 +14,8 @@
           -Learned: variables, basic string manipulation, string functions and basic introduction to python  
 
 
-14 October 2021: Continued Python for Beginners, feeling kinda sick, probably  a cold ;(  
-          -Learned: Basic number manipulation, basic math functions, **USER INPUTS :))))**  
+14 October 2021: Continued Python for Beginners, feeling kinda sick, probably  a cold ;(, still taking notes, stopped at 59:00  
+          -Learned: Basic number manipulation, basic math functions, **USER INPUTS :))))** 
 
 
 15 October 2021:
