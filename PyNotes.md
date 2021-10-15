@@ -139,7 +139,39 @@ to transform str into interger, use int()
 ***User Inputs***  
 To opem a prompt to ask, we use  `input()` we put what we want to ask in the `()`   
 
-to put the anwser in a variable, we use the normal variable way, `example = input("this is an exmaple? ")  
+to put the anwser in a variable, we use the normal variable way, `example = input("this is an exmaple? ")`    
+
+***Lists***    
+
+To create list, fistly give it a name to describe what's inside, very similar to variable, uses `[]` to store a list   
+
+*for example*  
+
+`list = ['help', 2, 3]`  
+
+just like other indexes, it always starts with 0 then go on,  
+
+to use a specific stuff inside a list, we uses indexes with a `[]` after the list  
+
+*for example*  
+
+`print(list[1])`  
+`2`  
+
+you can also grab stuff from the back of the list using negative numbers, keeo in mind that the fist number from the back is not 0 but -1 instead  
+
+we can grab multiple element using `[1:3]` (change the number ofc.) it will start grabbing from index 1 and won't grab index 3 but will grab index 2.  
+
+to modify element in a specific index, we can use the same thing as a valauble  
+
+*for example*  
+
+`list[2] = 5`  
+
+**List Functions**
+
+
+
 
 
 
