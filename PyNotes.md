@@ -170,13 +170,4 @@ to modify element in a specific index, we can use the same thing as a valauble
 
 **List Functions**
 
-
-
-
-
-
-
-
-
-
-
+AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH STUFF GOT DELETED BECAUSE PC CRASHED AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
