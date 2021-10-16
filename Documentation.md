@@ -18,7 +18,7 @@
           -Learned: Basic number manipulation, basic math functions, **USER INPUTS :))))** 
 
 
-15 October 2021: Cintinued Python for Beginners, feeling pretty sick ngl, still taking notes, stopped at 
+15 October 2021: Cintinued Python for Beginners, feeling pretty sick ngl, still taking notes, stopped at Tuple, (didn't start, feeling pretty sleepy, hopefully tmr is better...   
        
 
 16 October 2021:
