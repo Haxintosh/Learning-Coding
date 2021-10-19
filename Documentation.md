@@ -29,4 +29,5 @@
 
 18 October 2021: Taking A break  
 
-19 October 2021: Back to Learning :D Feeling way better. Continues Python for beginners, 
+19 October 2021: Back to Learning :D Feeling way better. Continues Python for beginners, stopped at 1:54:00
+          -Learned tuples, functions and if statements!  
