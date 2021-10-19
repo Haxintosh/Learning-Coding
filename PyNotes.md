@@ -181,3 +181,14 @@ They are created using `()`
 A function allows you to put bloc of codes inside them and allowing you to use it when needed instead of rewriting the codes   
 
 It can be created using `def` and it's usage is `def FUNCTION NAME(PARAMETER):` then we put codes after it as what to excecute.  
+
+**Return Statement**  
+Return statement are used to return stuff from the function for example a math operation  (check 19Oct.py for example)  
+
+***If statement***
+
+If statement is to if stuffs :p   
+It's syntax is fairly easy, see 19Oct.py and 20Oct.py for them.  
+
+Else is like otherwise  
+Elif is like if the previous condition is not true then try this condition 
