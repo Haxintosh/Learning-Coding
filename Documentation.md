@@ -21,10 +21,12 @@
 15 October 2021: Cintinued Python for Beginners, feeling pretty sick ngl, still taking notes, stopped at Tuple, (didn't start, feeling pretty sleepy, hopefully tmr is better...   
        
 
-16 October 2021:
+16 October 2021: Taking A breakk  
 
 
-17 October 2021
+17 October 2021: Taking A break  
 
 
-18 October 2021:
+18 October 2021: Taking A break  
+
+19 October 2021: Back to Learning :D Feeling way better. Continues Python for beginners, 
