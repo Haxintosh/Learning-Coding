@@ -171,3 +171,13 @@ to modify element in a specific index, we can use the same thing as a valauble
 **List Functions**
 
 AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH STUFF GOT DELETED BECAUSE PC CRASHED AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+***Tuples**
+
+Tuples are like lists that can't be changed/modified, they are indexed starting from 0 using `[INDEX]` behind the tuple  
+They are created using `()`    
+
+***FUNCTIONS POGGGGG***  
+A function allows you to put bloc of codes inside them and allowing you to use it when needed instead of rewriting the codes   
+
+It can be created using `def` and it's usage is `def FUNCTION NAME(PARAMETER):` then we put codes after it as what to excecute.  
