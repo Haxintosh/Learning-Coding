@@ -191,4 +191,16 @@ If statement is to if stuffs :p
 It's syntax is fairly easy, see 19Oct.py and 20Oct.py for them.  
 
 Else is like otherwise  
-Elif is like if the previous condition is not true then try this condition 
+Elif is like if the previous condition is not true then try this condition   
+
+**Comprison and if statment**  
+we can use comparison to compare between to thing, for example we can use it in a string or a boolean value.  
+comparison stuff  
+`==` is equal to  
+`!=` is not equal to  
+`>` is greater than  
+`<` is less than  
+`>=` is greater or equal to  
+`<=` is less or equal to  
+
+
