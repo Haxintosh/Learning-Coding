@@ -203,4 +203,26 @@ comparison stuff
 `>=` is greater or equal to  
 `<=` is less or equal to  
 
+***Dictionary***
+
+Dictionary are a bank of data that can be accesed using it's defined name and can be created using `{}`  
+The "stuff" inside a dictionary can be accsed using `[]` after it's name or using `.get(Name of Stuff)`  
+If we using the `.get()` method, we can make an exception message with an `,` after the `.get()`  
+
+*For Example*  
+`Creating a Dict`  
+`monthFull = {
+    'jan": "january",  
+    'feb': 'febru',  
+    'mar': 'march',  
+}`  
+
+`print(monthFUll.get('hewwo', 'not valid'))`  
+this will print out 'not valid' as excpetion when there is none.  
+
+***WHILE LOOP*** 
+
+While loop can be started with the keyword `while` and it's syntax is `while CONDITIONS:`  
+quick note to self, `i += 1`  
+
 
