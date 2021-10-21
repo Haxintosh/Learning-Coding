@@ -223,6 +223,32 @@ this will print out 'not valid' as excpetion when there is none.
 ***WHILE LOOP*** 
 
 While loop can be started with the keyword `while` and it's syntax is `while CONDITIONS:`  
-quick note to self, `i += 1`  
+quick note to self, `i += 1`    
+
+***FOR LOOP***  
+
+for loop is a loop that allows you to spit out every letter of a string, of an lis/array, etc.  
+
+*For example*  
+`for letter in "help":
+    print(letter)
+    print(' ')`   
+
+For example here, we are printing out every letters in help.  
+
+***2d lists***
+
+2d lists is a momre complicated type of lists that allows you to store variable in *cases* (row and column.)  
+
+*For example*  
+`number = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [0]
+
+]`  
+
+(see 21Oct.py)  
 
 
