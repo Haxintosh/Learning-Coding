@@ -35,7 +35,8 @@
 20 October 2021: Continued Python for beginners, stopped at 2:20:0, It's getting colder and spooooky anyone?  
           -Learned If statements comparison, while loop and dictionaries  
 
-21 October 2021: 
+21 October 2021: Almost finished Python for beginners :D, stopped at 3:0:0 spooooooooooooooooooooky :DDDD  
+          -Learned For loop, 2d lists, nested loops.  
 
 22 October 2021:
 
