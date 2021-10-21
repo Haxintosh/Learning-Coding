@@ -8,6 +8,11 @@ Parameter = value given to a function
 Mod = takes the first number and devide it by the second number and then spit out the remain number, sign is `%`, can be used like `print(10 % 3)`  
 
 
+Lists are created using `[]`  
+Dictionaries are created using `{}`  
+Tuples are created using `()`  
+
+
 ***Variable***  
 
 Variable can be created using (variable name) **SPACE** = **SPACE** ("value")    
@@ -250,5 +255,17 @@ For example here, we are printing out every letters in help.
 ]`  
 
 (see 21Oct.py)  
+
+***Nested loops***  
+Nested loops are basically a loop inside another loop  
+
+*For example*  
+
+`for row in number:
+    for column in row:
+        print(column)`  
+(See 21Oct.py)  
+
+
 
 
