@@ -1,0 +1,27 @@
+begin JavaNotes.md  
+ ***Basics of Java***  
+ **all java codes requires a "main" function**  
+ **it also requires the class "Main"**  
+ Functions:  
+  -a block of code that can do a task  
+  -When running a java program, the function main get called and whatever in that function get executed  
+  -a function should always belong to a container (class)  
+   functions:  
+    ReturnType + Name(Parameters) {  
+      actualJavaCode  
+    }  
+      
+   for example:  
+    class Main {  
+      void main() {  
+      code  
+     }  
+   }  
+  Classes:  
+    -any java program has at least 1 class  
+    -to define:  
+      -class keyword + name + {  
+  Methods:  
+    -functions inside a class  
+  Acces modifiers:  
+    -special keywords that determines if others can acces this class/methods (public, prive, etc)  
