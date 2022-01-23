@@ -1,7 +1,11 @@
 begin JavaNotes.md  
  ***Basics of Java***  
  **all java codes requires a "main" function**  
- **it also requires the class "Main"**  
+ **it also requires the class "Main"**
+ 
+ Naming conven  tions 
+  -PascalNamingConvention is for Classes
+  -camelNamingConventions is for Methods (functions)
  Functions:  
   -a block of code that can do a task  
   -When running a java program, the function main get called and whatever in that function get executed  
