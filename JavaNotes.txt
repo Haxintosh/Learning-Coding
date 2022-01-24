@@ -58,7 +58,9 @@ begin JavaNotes.md
   -Strings are reference types variables, they can be initiated using the String keyword, example is String msg = "hel";
   -Escaping is done with backslashes, if you want to print "\" then you need to double it. the 2 special charactersi are " and \. \t adds a tab in the string.
  -Arrays
-  -
+  -they are used to store a list of smething. See 23Jan.java for more
+ -Constants, they are created using the final keyword before initializing the var, for example final float pi=3.1415F; 
+  
  -Casting
  -Numbers, strings, and arrays, 
  -read inputs
