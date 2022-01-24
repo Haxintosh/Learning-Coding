@@ -50,6 +50,15 @@ begin JavaNotes.md
   -Java compiler always reads numbers as interger even if it's not defined as one, to fix this with long number, add the L or l suffix to the number.
   -To define numbers with decimal points, we use float for small numbers but double is for large ones.
   -Java compiler always reads decimal numbers as double even it's declared as float, to fix this, add F or f suffix.
+  -Char is used for letters
+  -boolean is used for booleans
+ -Reference type Variables
+  -reference types variables are different than primitive, they don't store the actual data in memory, they store the location that POINTS to the data, for example if we copy a reference type var, both of them gets the same address, so changing one will affect the other.
+ -Strings
+  -Strings are reference types variables, they can be initiated using the String keyword, example is String msg = "hel";
+  -Escaping is done with backslashes, if you want to print "\" then you need to double it. the 2 special charactersi are " and \. \t adds a tab in the string.
+ -Arrays
+  -
  -Casting
  -Numbers, strings, and arrays, 
  -read inputs
