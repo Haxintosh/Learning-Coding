@@ -17,7 +17,7 @@ begin JavaNotes.md
       
    for example:  
     class Main {  
-      void main() {  
+      void main() { 
       code  
      }  
    }  
